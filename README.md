@@ -5,3 +5,4 @@ Team Members:
 - Clara Conner
 - Taylor Givens
 - Kinsey Groves
+- Syed
