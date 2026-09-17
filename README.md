@@ -1,2 +1,7 @@
 # Flavor-Street
 A small game created as a group project for CS 4332. The player runs a food truck to impress Guy Fieri.
+
+Team Members:
+- Clara Conner
+- Taylor Givens
+- Kinsey Groves
